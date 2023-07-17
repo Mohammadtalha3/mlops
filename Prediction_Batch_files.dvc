@@ -1,0 +1,6 @@
+outs:
+- md5: 6053535632c7172da608a6d61fe012e9.dir
+  size: 6743175
+  nfiles: 19
+  hash: md5
+  path: Prediction_Batch_files
