@@ -88,3 +88,4 @@ target/
 # Mypy cache
 .mypy_cache/
 /Prediction_Batch_files
+/Training_Batch_Files
